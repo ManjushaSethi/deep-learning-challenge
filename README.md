@@ -36,6 +36,17 @@ Sorry I was not able to achieve the target model performance.
 But still did not increase the accuracy to 75%
 With all 4 changes the accuracy was still 72%
 <img width="884" alt="Screenshot 2024-02-12 at 10 03 40 PM" src="https://github.com/ManjushaSethi/deep-learning-challenge/assets/143744238/a08e50be-197f-49c2-8172-7e78926eb6c8">
+#In AlphabetSoupCharity_Optimization2.ipynb
+Change the application count to 800 for binning
+<img width="716" alt="Screenshot 2024-02-13 at 9 56 40 PM" src="https://github.com/ManjushaSethi/deep-learning-challenge/assets/143744238/b0ca34ac-ef11-4508-b541-4b68b212226e">
+
+
+
+
+#AlphabetSoupCharity_Optimization3.ipynb
+Remove the Organization column
+<img width="863" alt="Screenshot 2024-02-13 at 9 46 21 PM" src="https://github.com/ManjushaSethi/deep-learning-challenge/assets/143744238/601eb7a0-5f0b-4f81-af22-147f63f4d219">
+
 
 #Describe how you could use a different model to solve the same problem, and explain why you would use that model 
 1. May be adding more neural layers and more epoch
